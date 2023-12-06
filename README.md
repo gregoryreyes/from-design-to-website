@@ -13,7 +13,7 @@
 
 ## Project Link
 
-* https://gregreyes.dev/from-design-to-website/
+* https://gregreyes.dev/projects/from-design-to-website/
 
 ## Decription
 
