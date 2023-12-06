@@ -27,8 +27,8 @@ HTML, CSS, Flexbox
 ## Setup
 
 ```sh
-git clone https://github.com/gregoryreyes/from-design-to-website
-cd from-design-to-website
+git clone https://github.com/gregoryreyes/from-design-to-website;
+cd from-design-to-website;
 ```
 
 Original design:
