@@ -7,6 +7,7 @@
 * [Description](#description)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Original Design](#original-design)
 
 ## Author
 
@@ -31,7 +32,9 @@ git clone https://github.com/gregoryreyes/from-design-to-website;
 cd from-design-to-website;
 ```
 
-Original design:
+## Original Design:
+
+Images provided by designer that were used as a visual guide to create website.
 
 ![Desktop Design](./assets/resume-design-desktop.png)
 
