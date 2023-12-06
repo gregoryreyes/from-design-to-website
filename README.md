@@ -5,6 +5,7 @@
 *[Author](#author)
 *[Project Link](#project-link)
 *[Description](#description)
+*[Technologies](#technologies)
 *[Setup](#setup)
 
 ## Author
@@ -18,6 +19,10 @@
 ## Decription
 
 A demonstration of collaborating with a designer and translating their design ideas into web compatible code from scratch, with a project deadline of 48 Hours.
+
+## Technologies
+
+HTML, CSS, Flexbox
 
 ## Setup
 
